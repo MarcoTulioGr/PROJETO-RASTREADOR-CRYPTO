@@ -1,18 +1,21 @@
 # 🚀 Crypto Tracker
 
-Sistema web para rastreamento de criptomoedas em tempo real.
-
----
-
 ## 📌 Sobre o projeto
 
-O Crypto Tracker é uma aplicação web desenvolvida para monitorar preços de criptomoedas em tempo real.
+Crypto Tracker é uma aplicação web responsiva desenvolvida para acompanhamento de criptomoedas em tempo real.  
+
+A plataforma permite visualizar preços atualizados, variações de mercado e realizar buscas dinâmicas entre diferentes ativos digitais através de uma interface moderna e intuitiva.
+
+O projeto foi desenvolvido utilizando HTML, CSS e JavaScript, com integração de API externa para consumo de dados em tempo real, focando em boas práticas de front-end e experiência visual do usuário.
+
+---
 
 ### Funcionalidades:
 - Busca dinâmica de moedas
 - Atualização em tempo real
 - Interface Dark Mode
 - Tabela com preços e variações
+- Informações da moeda Crypto
 
 ---
 
@@ -33,7 +36,6 @@ Tela infomações ao clicar na moeda:
 
 Tela de pesquisa pelo buscador: 
 <img width="100%" src="./preview3.png">
-
 
 
 ---
