@@ -25,10 +25,19 @@ O Crypto Tracker é uma aplicação web desenvolvida para monitorar preços de c
 ---
 
 ## 📷 Preview
-
+Tela príncipal:
 <img width="100%" src="./preview.png">
+
+Tela infomações ao clicar na moeda: 
+<img width="100%" src="./preview2.png">
+
+Tela de pesquisa pelo buscador: 
+<img width="100%" src="./preview3.png">
+
+
+
 ---
 
 ## 👨‍💻 Autor
 
-Marco Tulio
+Marco Tulio Goncalves Ribeiro
