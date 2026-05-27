@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Rastreando Crypto</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1><div class="header">
+  <div>
+    <h1>Rastreador de Crypto</h1>
+    <p id="data-hora"></p>
+  </div>
+  <input type="text" id="busca" placeholder="Buscar moeda:">
+
+<div id="modal" style="display:none">
+  <div id="modal-conteudo">
+    <button id="fechar-modal">✕</button>
+    <div id="modal-info"></div>
+  </div>
+</div>
+
+
+</div> </h1>
+
+    <table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Moeda</th>
+      <th>Preço (USD)</th>
+      <th>Variação 24h</th>
+    </tr>
+  </thead>
+  <tbody id="lista-moedas">
+    <!-- As moedas vão aparecer aqui via JavaScript -->
+  </tbody>
+</table>
+<p id="carregando">Carregando dados...</p>
+
+<script src="script.js"></script></body>
+
+</html>
